@@ -7,7 +7,7 @@ This is a calculator. It's lazy. It doesn't really like to do math. It judges yo
 
 `$ git clone https://github.com/tklovett/LazyCalculator.git`
 
-## Install the app.
+## Install the app
 
 Attempt to install LazyCalculator.apk on your phone. It's Android though, so its not going to work on the first try. But go ahead and try if you want. Be my guest.
 
